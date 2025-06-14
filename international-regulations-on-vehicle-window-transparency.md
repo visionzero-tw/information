@@ -1,6 +1,11 @@
 ### 各國車窗透光率法規
 ### International Regulations on Vehicle Window Transparency
 
+下表列出各國或地區車窗的**最低**法定可見光穿透率（VLT）百分比。
+國家名稱依照以拉丁字母拼寫的順序由小到大排列。
+
+The table below shows the minimum legal visible light transmission (VLT) percentages required for vehicle windows in each country or region. Countries and regions are listed in ascending alphabetical order.
+
 | | 國家<br>Country | 地區<br>Region| Front<br>&nbsp; | Front<br>Side | Rear<br>Side | Rear<br>&nbsp; | Sources<br>&nbsp; |
 |:--|:--|:--|-:|--:|--:|--:|:--|
 | 🇦🇺 | 澳洲<br>Australia | 澳洲首都領地<br>Australian Capital Territory | 100% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) |
