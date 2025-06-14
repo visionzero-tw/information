@@ -17,6 +17,6 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | | | 維多利亞州<br>Victoria | 100% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) |
 | | | 西澳州<br>Western Australia | 100% | 35% | 20% | 20% | [1](https://australiatintlaws.com/) |
 | 🇯🇵 | 日本<br>Japan | | 70% | 70% | 0% | 0% | [1](https://www.mlit.go.jp/jidosha/jidosha/tenkenseibi/huseikaizou/h1/h1-2/) [2](https://www.mlit.go.jp/jidosha/content/S195.pdf) |
-| 🇳🇿 | 紐西蘭<br>New Zealand | | 100% | 35% | 35% | 35% | [1](https://www.nzta.govt.nz/vehicles/warrants-and-certificates/vehicle-equipment/vehicle-windows-wipers-and-mirrors/)|
+| 🇳🇿 | 紐西蘭<br>New Zealand | | 70% | 35% | 35% | 35% | [1](https://www.nzta.govt.nz/vehicles/warrants-and-certificates/vehicle-equipment/vehicle-windows-wipers-and-mirrors/) [2](https://vehicleinspection.nzta.govt.nz/virms/in-service-wof-and-cof/light-psvs/vision/glazing) |
 | 🇸🇬 | 新加坡<br>Singapore | | 70% | 70% | 25% | 25% | [1](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/modification.html) |
 | 🇬🇧 | 英國<br>United Kingdom | | 75% | 70% | 0% | 0% | [1](https://www.gov.uk/tinted-vehicle-window-rules) |
