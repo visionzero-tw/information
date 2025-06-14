@@ -22,4 +22,5 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | 🇯🇵 | 日本<br>Japan | | 70% | 70% | 0% | 0% | [1](https://www.mlit.go.jp/jidosha/jidosha/tenkenseibi/huseikaizou/h1/h1-2/) [2](https://www.mlit.go.jp/jidosha/content/S195.pdf) |
 | 🇳🇿 | 紐西蘭<br>New Zealand | | 70% | 35% | 35% | 35% | [1](https://www.nzta.govt.nz/vehicles/warrants-and-certificates/vehicle-equipment/vehicle-windows-wipers-and-mirrors/) [2](https://vehicleinspection.nzta.govt.nz/virms/in-service-wof-and-cof/light-psvs/vision/glazing) |
 | 🇸🇬 | 新加坡<br>Singapore | | 70% | 70% | 25% | 25% | [1](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/modification.html) |
+| 🇿🇦 | 南非<br>South Africa | | 70% | 35% | 35% | 35% | [1](http://www.kzntransport.gov.za/reading_room/acts/national/NRTA%20Regs%20Part%201.pdf) |
 | 🇬🇧 | 英國<br>United Kingdom | | 75% | 70% | 0% | 0% | [1](https://www.gov.uk/tinted-vehicle-window-rules) |
