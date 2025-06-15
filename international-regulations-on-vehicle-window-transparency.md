@@ -21,7 +21,7 @@ The table below shows the minimum legal visible light transmission (VLT) percent
 | 🇨🇳 | 中華人民共和國<br>People's Republic of China | 香港<br>Hong Kong | 70% | 70% | 44% | 44% | [1](https://www.td.gov.hk/filemanager/sc/content_4808/item1.4.pdf) |
 | | | 澳門<br>Macau | 70% | 70% | 44% | 44% | [1](https://bo.io.gov.mo/bo/i/93/17/codestcn/declei17an.asp) |
 | | | 內地<br>Mainland | 70% | 70% | N/A | N/A | [1](https://openstd.samr.gov.cn/bzgk/gb/newGbInfo?hcno=06A0C376A0CA7B14E93106194C99730F) |
-| 🇹🇼 | 中華民國<br>Republic of China | 台灣、澎湖、金門、馬祖<br>Taiwan, Penghu, Jinmen, Matsu | N/A | N/A | N/A | N/A | [1](https://taiwannews.com.tw/news/6108145) |
+| 🇹🇼 | 中華民國<br>Republic of China | 台灣、澎湖、金門、馬祖<br>Taiwan, Penghu, Kinmen, Matsu | N/A | N/A | N/A | N/A | [1](https://taiwannews.com.tw/news/6108145) |
 | 🇰🇷 | 大韓民國<br>Republic of Korea | | 70% | 40% | N/A | N/A | [1](https://elaw.klri.re.kr/eng_service/lawView.do?hseq=51393&lang=ENG) |
 | 🇸🇬 | 新加坡<br>Singapore | | 70% | 70% | 25% | 25% | [1](https://onemotoring.lta.gov.sg/content/onemotoring/home/owning/modification.html) |
 | 🇿🇦 | 南非<br>South Africa | | 70% | 35% | 35% | 35% | [1](http://www.kzntransport.gov.za/reading_room/acts/national/NRTA%20Regs%20Part%201.pdf) |
